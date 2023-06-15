@@ -7,9 +7,9 @@
 
 - 🔭 Contributing to [Rent-a-Game](https://github.com/MatWebDev/rent_a_game)
 
-- 🌱 Learning all about **Rails**
+- 🌱 Everything about **Angular**
 
-- 👯 I use daily: **.rb .js .scss .erb**
+- 👯 I use daily: **.js .ts .scss .java**
 
 - 🤝 I'm mostly active within the **Graphic designers community**
 
